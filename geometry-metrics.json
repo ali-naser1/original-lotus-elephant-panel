@@ -1,0 +1,21 @@
+{
+  "width_mm": 580.0,
+  "height_mm": 500.0,
+  "thickness_mm": 2.0,
+  "material": "mild steel",
+  "connected_components": 1,
+  "geometry_valid": true,
+  "closed_profiles": 19,
+  "decorative_apertures": 16,
+  "mounting_holes": 2,
+  "mounting_hole_diameter_mm": 8.0,
+  "minimum_profile_separation_mm": 4.993,
+  "minimum_gap_pair": [
+    0,
+    6
+  ],
+  "area_mm2": 117940.17,
+  "cut_length_mm": 8725.4,
+  "mass_kg": 1.8517,
+  "cut_price_at_2_usd_per_kg": 3.7
+}
